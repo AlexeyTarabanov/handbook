@@ -1,0 +1,1 @@
+insert into regions (name, short_name) values ('Ленинградская Область', 'ЛО');
